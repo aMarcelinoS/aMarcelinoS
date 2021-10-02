@@ -15,7 +15,7 @@
 <h4> <strong>Sobre mim:</strong></h4>
 
 - 🔭 Atualmente estou trabalhando em estudar bastante e me aperfeiçoar, fazendo cursos livres e me preparando para minha primeira oportunidade;
-- 🌱 Atualmente estou cursando o primeiro período de Análise e Desenvolvimento de Sistemas, aprendendo Java e Javascript e aperfeiçoando meus conhecimentos Html e CSS;
+- 🌱 Cursando o primeiro período de Análise e Desenvolvimento de Sistemas, aprendendo Java e Javascript e aperfeiçoando meus conhecimentos Html e CSS;
 - ⚡ Curiosidade sobre mim é que sou curioso 😄 e gosto de sempre aprender coisas novas;
 - 📫 Meu e-mail e linkedin estão logo abaixo ;-)
 
